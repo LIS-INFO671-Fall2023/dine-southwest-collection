@@ -14,6 +14,7 @@ credits: true
 
 ## About the Collection
 
+Our goals for this project are to demonstrate the living cultures of Indigenous people in the local region, to construct an enhanced finding aid that utilizes culturally specific descriptive terms and to provide a wider depth of Indigenous cultural context--including Native place names and terms. 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
