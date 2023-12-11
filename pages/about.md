@@ -15,7 +15,7 @@ credits: true
 ## About the Collection
 
 Our goals for this project were to demonstrate the living cultures of Indigenous people in the Arizona-Southwest region, to construct an enhanced collection that utilizes culturally specific descriptive terms, and to provide a wider depth of Indigenous cultural context. Our intitial focus was meant to be regionally-specific to Arizona and the Southwest and to convey attentive Indigenous cultural representation in digital archives. The digitized images in this collection are from the Harrison Forman (an American journalist) collection at the University of Winsconsin-Milwaukee. The descriptions provided in that collection were only in English, and so we sought to make them more culturally representative. Because the images in the collection are representative of Diné (Navajo) communities, we aimed to include descriptions in Diné language to demonstrate respect for the original language and the originating peoples. We are focused on primarily Diné (Navajo) speakers and Native communities, then researchers, and the public as user groups. Because of the history of colonialism and the treatment of Indigenous peoples globally, our collection seeks to represent Native peoples respectfully and accurately for the communities relevant to the collection items.
-To learn more about the Navajo Nation: https://www.navajo-nsn.gov/
+Learn more about the Navajo Nation [here](https://www.navajo-nsn.gov/)
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
